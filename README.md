@@ -1,6 +1,6 @@
 
 
-# ✈️ WanderWise: Your AI-Powered Personalized Trip Planner
+# ✈️ Ajourney: Your AI-Powered Personalized Trip Planner
 
 ![WanderWise Logo](https://img.stability.ai/20fdf276-8098-44d4-a7dd-f725941ac82b.png)
 *(Self-generated placeholder image for a travel-themed logo - imagine a stylized globe with an AI brain icon)*
